@@ -7,7 +7,7 @@
 
 **Map reality, not aspiration.**
 
-ContextFlow is a visual DDD context mapper for analyzing bounded contexts, their relationships, and code ownership across two synchronized views: **Flow** (value stream) and **Strategic** (Wardley evolution).
+ContextFlow is a visual DD context mapper for analyzing bounded contexts, their relationships, and code ownership across two synchronized views: **Flow** (value stream) and **Strategic** (Wardley evolution).
 
 ![ContextFlow Screenshot](docs/context-flow-3.png)
 
